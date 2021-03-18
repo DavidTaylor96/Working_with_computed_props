@@ -1,5 +1,4 @@
-# computed_props![Computed_props](https://user-images.githubusercontent.com/73443858/111646327-74bbc000-87f9-11eb-829e-52a1f6793795.png)
-
+### Computed props
 
 ## Project setup
 ```
